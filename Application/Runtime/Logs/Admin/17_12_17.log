@@ -1,0 +1,677 @@
+[ 2017-12-17T09:44:29+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1146:Table 'jxshop.jx_goodscate' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jx_goodscate`
+
+[ 2017-12-17T09:46:46+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-12-17T09:48:39+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1146:Table 'jxshop.jx_goodscate' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jx_goodscate`
+
+[ 2017-12-17T09:49:39+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1146:Table 'jxshop.jx_goodscate' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jx_goodscate`
+
+[ 2017-12-17T09:49:40+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1146:Table 'jxshop.jx_goodscate' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jx_goodscate`
+
+[ 2017-12-17T09:49:41+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1146:Table 'jxshop.jx_goodscate' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jx_goodscate`
+
+[ 2017-12-17T09:49:41+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1146:Table 'jxshop.jx_goodscate' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jx_goodscate`
+
+[ 2017-12-17T09:49:41+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1146:Table 'jxshop.jx_goodscate' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jx_goodscate`
+
+[ 2017-12-17T09:51:07+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array,Array,Array,Array,Array,Array,Array,,Array,Array,Array,5 ) GROUP BY goods_' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,Array,Array,Array,Array,Array,Array,Array,,Array,Array,Array,5 ) GROUP BY goods_id 
+
+[ 2017-12-17T09:55:21+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array,Array,Array,Array,Array,Array,Array,,6 ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,Array,Array,Array,Array,Array,Array,Array,,6 ) GROUP BY goods_id 
+
+[ 2017-12-17T09:59:10+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3,4,9,5,6,7,8,,6 ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,3,4,9,5,6,7,8,,6 ) GROUP BY goods_id 
+
+[ 2017-12-17T10:02:24+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3,4,9,5,6,7,8,,6 ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,3,4,9,5,6,7,8,,6 ) GROUP BY goods_id 
+
+[ 2017-12-17T10:16:42+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3,4,9,5,6,7,8,,6) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,3,4,9,5,6,7,8,,6) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:24:29+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:24:46+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:35:56+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:37:18+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:38:13+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:39:36+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:39:37+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:39:37+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:39:37+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:39:45+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:44:24+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:45:16+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html?cate_id=6&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:45:38+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:45:41+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:46:21+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:46:47+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:47:01+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:47:12+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:48:14+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:49:19+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:49:34+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:51:03+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:51:33+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:51:55+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (3,4,9,5,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:53:29+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (4,9,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:54:03+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (4,9,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:54:04+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (4,9,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:54:04+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (4,9,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:54:04+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (4,9,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:54:05+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (4,9,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:54:05+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (4,9,6,7,8,,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:55:05+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:55:54+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:59:16+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:59:17+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:59:17+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:59:17+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:59:17+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:59:18+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:59:18+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:59:18+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T10:59:57+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:00:30+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:01:18+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:01:43+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:02:17+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:02:53+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:02:54+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:02:54+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:02:54+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:02:54+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:02:54+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:03:46+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:03:47+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:03:47+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:03:57+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:04:21+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:04:22+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:04:33+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:05:09+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:06:14+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:07:49+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:08:15+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:09:40+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T11:12:58+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3,4,9,5,6,7,8,,3,4,9,5,6,7,8,5) ) GROUP BY goods_id' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods_cate` WHERE ( cate_id in (,3,4,9,5,6,7,8,,3,4,9,5,6,7,8,5) ) GROUP BY goods_id 
+
+[ 2017-12-17T12:14:27+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:15:47+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:16:07+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:16:07+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:16:27+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:17:42+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:18:02+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:18:03+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:18:03+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:20:45+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:21:12+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:21:13+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:21:14+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:21:14+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:24:30+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:24:31+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:24:31+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T12:40:43+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in(3,4,9,5,6,7,8,5) ) LIMIT 2,2  
+
+[ 2017-12-17T13:08:13+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:08:57+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1and cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:09:26+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:09:42+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:09:43+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:09:43+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:09:43+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:09:43+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:09:43+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:10:01+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:11:40+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:11:40+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:11:40+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:11:40+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:11:41+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:11:41+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:11:48+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:11:48+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:11:48+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:11:48+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:12:01+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:12:01+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:12:01+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:12:02+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:14:55+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:14:56+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:14:56+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:14:56+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:14:56+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:16:25+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:16:26+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:16:26+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:16:26+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:16:27+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:16:27+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:16:36+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/3.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 4,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 4,2  
+
+[ 2017-12-17T13:16:38+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/5/intro_type/is_rec/is_sale/0/p/2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 2,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 2,2  
+
+[ 2017-12-17T13:16:42+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/0/intro_type/0/is_sale/0/p/3.html?cate_id=5&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 4,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 4,2  
+
+[ 2017-12-17T13:17:06+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/0/intro_type/0/is_sale/0/p/3.html?cate_id=5&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 4,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 4,2  
+
+[ 2017-12-17T13:17:07+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/0/intro_type/0/is_sale/0/p/3.html?cate_id=5&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 4,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 4,2  
+
+[ 2017-12-17T13:17:07+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/0/intro_type/0/is_sale/0/p/3.html?cate_id=5&intro_type=is_rec&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 4,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,5)and is_rec=1and is_sale =0 ) LIMIT 4,2  
+
+[ 2017-12-17T13:35:45+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/0/intro_type/0/is_sale/0/keyword/sf/p/3.html?cate_id=7&intro_type=is_new&is_sale=0&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 4,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND cate_id in (3,4,9,5,6,7,8,7)and is_new=1and is_sale =0 ) LIMIT 4,2  
+
+[ 2017-12-17T13:43:32+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-12-17T13:43:38+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-12-17T14:15:14+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/6/intro_type/is_new/is_sale/1/p/3.html?cate_id=6&intro_type=is_new&is_sale=1&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 4,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND (cate_id in (3,4,9,5,6,7,8,6) OR id in (44))and is_new=1and is_sale =0 ) LIMIT 4,2  
+
+[ 2017-12-17T14:15:18+08:00 ] 127.0.0.1 /Admin/Goods/index/cate_id/6/intro_type/is_new/is_sale/1/p/3.html?cate_id=6&intro_type=is_new&is_sale=1&keyword=
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0 ) LIMIT 4,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND (cate_id in (3,4,9,5,6,7,8,6) OR id in (44))and is_new=1and is_sale =0 ) LIMIT 4,2  
+
+[ 2017-12-17T14:16:07+08:00 ] 127.0.0.1 /Admin/Goods/index?cate_id=3&intro_type=is_rec&is_sale=1&keyword=%E7%94%B5%E8%A7%86%E6%9C%BA
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is_sale =0and goods_name like '%keywork%' ) LIMIT 0,2' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( isdel=1 AND (cate_id in (3,4,9,5,6,7,8,3) OR id in (44))and is_rec=1and is_sale =0and goods_name like '%keywork%' ) LIMIT 0,2  
+
+[ 2017-12-17T14:37:24+08:00 ] 127.0.0.1 /Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2017-12-17T14:37:24+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-17T14:37:24+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-17T14:37:41+08:00 ] 127.0.0.1 /Admin/Index/brandList.html
+ERR: 非法操作:brandList
+
+[ 2017-12-17T15:55:02+08:00 ] 127.0.0.1 /Admin/Goods/edit/goods_id/1.html
+ERR: 非法操作:edit
+
+[ 2017-12-17T15:55:42+08:00 ] 127.0.0.1 /Admin/Goods/edit/goods_id/1.html
+ERR: 非法操作:edit
+
+[ 2017-12-17T15:55:44+08:00 ] 127.0.0.1 /Admin/Goods/edit/goods_id/1.html
+ERR: 非法操作:edit
+
+[ 2017-12-17T15:55:47+08:00 ] 127.0.0.1 /Admin/Goods/updateGoods/goods_id/1.html
+ERR: 非法操作:updateGoods
+
+[ 2017-12-17T16:15:51+08:00 ] 127.0.0.1 /Admin/Goods/dels/goods_id/27.html
+ERR: 1054:Unknown column 'goods_id' in 'where clause'
+ [ SQL语句 ] : UPDATE `jx_goods` SET `isdel`='0' WHERE ( id=goods_id )
+
+[ 2017-12-17T16:16:59+08:00 ] 127.0.0.1 /Admin/Goods/dels/goods_id/27.html
+ERR: 1054:Unknown column '$goods_id' in 'where clause'
+ [ SQL语句 ] : UPDATE `jx_goods` SET `isdel`='0' WHERE ( id=$goods_id )
+
+[ 2017-12-17T16:17:01+08:00 ] 127.0.0.1 /Admin/Goods/dels/goods_id/27.html
+ERR: 1054:Unknown column '$goods_id' in 'where clause'
+ [ SQL语句 ] : UPDATE `jx_goods` SET `isdel`='0' WHERE ( id=$goods_id )
+
+[ 2017-12-17T16:17:04+08:00 ] 127.0.0.1 /Admin/Goods/dels/goods_id/27.html
+ERR: 1054:Unknown column '$goods_id' in 'where clause'
+ [ SQL语句 ] : UPDATE `jx_goods` SET `isdel`='0' WHERE ( id=$goods_id )
+
+[ 2017-12-17T16:17:04+08:00 ] 127.0.0.1 /Admin/Goods/dels/goods_id/27.html
+ERR: 1054:Unknown column '$goods_id' in 'where clause'
+ [ SQL语句 ] : UPDATE `jx_goods` SET `isdel`='0' WHERE ( id=$goods_id )
+
+[ 2017-12-17T16:17:04+08:00 ] 127.0.0.1 /Admin/Goods/dels/goods_id/27.html
+ERR: 1054:Unknown column '$goods_id' in 'where clause'
+ [ SQL语句 ] : UPDATE `jx_goods` SET `isdel`='0' WHERE ( id=$goods_id )
+
+[ 2017-12-17T16:17:50+08:00 ] 127.0.0.1 /Admin/Goods/dels/goods_id/27.html
+ERR: 1054:Unknown column '$goods_id' in 'where clause'
+ [ SQL语句 ] : UPDATE `jx_goods` SET `isdel`='0' WHERE ( id=$goods_id )
+
+[ 2017-12-17T20:09:39+08:00 ] 127.0.0.1 /Admin/Goods/edit/goods_id/34.html
+ERR: 1054:Unknown column 'JX5a36076cdbc16' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( goods_sn = JX5a36076cdbc16 and id !=JX5a36076cdbc16 ) LIMIT 1  
+
+[ 2017-12-17T20:10:40+08:00 ] 127.0.0.1 /Admin/Goods/edit/goods_id/34.html
+ERR: 1054:Unknown column 'JX5a36076cdbc16' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( goods_sn = JX5a36076cdbc16 and id !=JX5a36076cdbc16 ) LIMIT 1  
+
+[ 2017-12-17T20:11:57+08:00 ] 127.0.0.1 /Admin/Goods/edit/goods_id/34.html
+ERR: 1054:Unknown column 'JX5a36076cdbc16' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( goods_sn = JX5a36076cdbc16 and id !=JX5a36076cdbc16 ) LIMIT 1  
+
+[ 2017-12-17T20:12:06+08:00 ] 127.0.0.1 /Admin/Goods/edit/goods_id/34.html
+ERR: 1054:Unknown column 'JX5a36076cdbc16' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( goods_sn = JX5a36076cdbc16 and id !=JX5a36076cdbc16 ) LIMIT 1  
+
+[ 2017-12-17T20:12:35+08:00 ] 127.0.0.1 /Admin/Goods/edit/goods_id/34.html
+ERR: 1054:Unknown column 'JX5a36076cdbc16' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( goods_sn = JX5a36076cdbc16 and id !=JX5a36076cdbc16 ) LIMIT 1  
+
+[ 2017-12-17T20:13:30+08:00 ] 127.0.0.1 /Admin/Goods/edit/goods_id/34.html
+ERR: 1054:Unknown column 'JX5a36076cdbc16' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( goods_sn = 'JX5a36076cdbc16' AND id !=JX5a36076cdbc16 ) LIMIT 1  
+
+[ 2017-12-17T20:14:10+08:00 ] 127.0.0.1 /Admin/Goods/edit/goods_id/34.html
+ERR: 1054:Unknown column 'goods_id' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `jx_goods` WHERE ( goods_id = 34 )
+
+[ 2017-12-17T20:15:38+08:00 ] 127.0.0.1 /Admin/Goods/edit/goods_id/34.html
+ERR: 1054:Unknown column 'goods_id' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `jx_goods` WHERE ( goods_id = 34 )
+
+[ 2017-12-17T20:18:42+08:00 ] 127.0.0.1 /Admin/Goods/edit/goods_id/34.html
+ERR: Think\Model:insertExtCate方法不存在！
+
+[ 2017-12-17T20:42:19+08:00 ] 127.0.0.1 /Admin/Goods/remove/goods_id/44.html
+ERR: 非法操作:remove
+
+[ 2017-12-17T20:43:06+08:00 ] 127.0.0.1 /Admin/Goods/remove/goods_id/44.html
+ERR: Think\Controller:findOneById方法不存在！
+
+[ 2017-12-17T20:43:40+08:00 ] 127.0.0.1 /Admin/Goods/remove/goods_id/44.html
+ERR: Think\Controller:findOneById方法不存在！
+
+[ 2017-12-17T20:46:02+08:00 ] 127.0.0.1 /Admin/Goods/remove/goods_id/44.html
+ERR: Think\Controller:findOneById方法不存在！
+
+[ 2017-12-17T20:47:31+08:00 ] 127.0.0.1 /Admin/Goods/remove/goods_id/44.html
+ERR: 非法操作:remove
+
+[ 2017-12-17T20:48:23+08:00 ] 127.0.0.1 /Admin/Goods/remove/goods_id/44.html
+ERR: 非法操作:remove
+
+[ 2017-12-17T20:49:32+08:00 ] 127.0.0.1 /Admin/Goods/recover/goods_id/27.html
+ERR: Think\Model:setStatus方法不存在！
+

@@ -1,0 +1,110 @@
+[ 2017-12-18T17:47:49+08:00 ] 127.0.0.1 /Admin/Role/add
+ERR: 无法加载控制器:Role
+
+[ 2017-12-18T18:22:06+08:00 ] 127.0.0.1 /Admin/Role/index
+ERR: 1146:Table 'jxshop.__role' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `__ROLE`
+
+[ 2017-12-18T18:22:27+08:00 ] 127.0.0.1 /Admin/Role/index
+ERR: 1146:Table 'jxshop._role' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `_ROLE`
+
+[ 2017-12-18T18:54:01+08:00 ] 127.0.0.1 /Admin/Role/edit
+ERR: 1146:Table 'jxshop.jx_common' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jx_common`
+
+[ 2017-12-18T18:54:33+08:00 ] 127.0.0.1 /Admin/Role/edit
+ERR: 1146:Table 'jxshop.jx_common' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jx_common`
+
+[ 2017-12-18T18:54:33+08:00 ] 127.0.0.1 /Admin/Role/edit
+ERR: 1146:Table 'jxshop.jx_common' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jx_common`
+
+[ 2017-12-18T18:54:33+08:00 ] 127.0.0.1 /Admin/Role/edit
+ERR: 1146:Table 'jxshop.jx_common' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jx_common`
+
+[ 2017-12-18T18:54:34+08:00 ] 127.0.0.1 /Admin/Role/edit
+ERR: 1146:Table 'jxshop.jx_common' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jx_common`
+
+[ 2017-12-18T18:54:34+08:00 ] 127.0.0.1 /Admin/Role/edit
+ERR: 1146:Table 'jxshop.jx_common' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jx_common`
+
+[ 2017-12-18T19:04:47+08:00 ] 127.0.0.1 /Admin/Role/edit/role_id/3.html
+ERR: Think\Model:updata方法不存在！
+
+[ 2017-12-18T19:13:08+08:00 ] 127.0.0.1 /Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2017-12-18T19:13:08+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-18T19:13:08+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-18T19:13:13+08:00 ] 127.0.0.1 /Admin/Index/userList.html
+ERR: 非法操作:userList
+
+[ 2017-12-18T19:13:25+08:00 ] 127.0.0.1 /Admin/Index/goodsTrash.html
+ERR: 非法操作:goodsTrash
+
+[ 2017-12-18T19:13:26+08:00 ] 127.0.0.1 /Admin/Index/brandList.html
+ERR: 非法操作:brandList
+
+[ 2017-12-18T19:13:30+08:00 ] 127.0.0.1 /Admin/Index/orderList.html
+ERR: 非法操作:orderList
+
+[ 2017-12-18T19:13:30+08:00 ] 127.0.0.1 /Admin/Index/orderQuery.html
+ERR: 非法操作:orderQuery
+
+[ 2017-12-18T19:13:32+08:00 ] 127.0.0.1 /Admin/Index/orderAdd.html
+ERR: 非法操作:orderAdd
+
+[ 2017-12-18T19:13:32+08:00 ] 127.0.0.1 /Admin/Index/delivery_list.html
+ERR: 非法操作:delivery_list
+
+[ 2017-12-18T19:13:33+08:00 ] 127.0.0.1 /Admin/Index/back_list.html
+ERR: 非法操作:back_list
+
+[ 2017-12-18T19:18:56+08:00 ] 127.0.0.1 /Admin/Admin/add
+ERR: 模板不存在:../Application/Admin/View/Admin/add.html
+
+[ 2017-12-18T19:19:46+08:00 ] 127.0.0.1 /Admin/Admin/add
+ERR: 模板不存在:../Application/Admin/View/Admin/add.html
+
+[ 2017-12-18T19:19:46+08:00 ] 127.0.0.1 /Admin/Admin/add
+ERR: 模板不存在:../Application/Admin/View/Admin/add.html
+
+[ 2017-12-18T19:19:47+08:00 ] 127.0.0.1 /Admin/Admin/add
+ERR: 模板不存在:../Application/Admin/View/Admin/add.html
+
+[ 2017-12-18T19:19:47+08:00 ] 127.0.0.1 /Admin/Admin/add
+ERR: 模板不存在:../Application/Admin/View/Admin/add.html
+
+[ 2017-12-18T19:19:47+08:00 ] 127.0.0.1 /Admin/Admin/add
+ERR: 模板不存在:../Application/Admin/View/Admin/add.html
+
+[ 2017-12-18T19:19:47+08:00 ] 127.0.0.1 /Admin/Admin/add
+ERR: 模板不存在:../Application/Admin/View/Admin/add.html
+
+[ 2017-12-18T19:19:47+08:00 ] 127.0.0.1 /Admin/Admin/add
+ERR: 模板不存在:../Application/Admin/View/Admin/add.html
+
+[ 2017-12-18T19:19:47+08:00 ] 127.0.0.1 /Admin/Admin/add
+ERR: 模板不存在:../Application/Admin/View/Admin/add.html
+
+[ 2017-12-18T19:19:48+08:00 ] 127.0.0.1 /Admin/Admin/add
+ERR: 模板不存在:../Application/Admin/View/Admin/add.html
+
+[ 2017-12-18T19:29:16+08:00 ] 127.0.0.1 /Admin/Admin/index
+ERR: Think\Model:listData方法不存在！
+
+[ 2017-12-18T20:38:59+08:00 ] 127.0.0.1 /Admin/Admin/edit/admin_id/3.html
+ERR: Think\Model:findOne方法不存在！
+
+[ 2017-12-18T23:31:57+08:00 ] 127.0.0.1 /Admin/Admin/edit/admin_id/3.html
+ERR: Think\Model:updata方法不存在！
+

@@ -1,0 +1,239 @@
+[ 2017-12-16T08:41:58+08:00 ] 127.0.0.1 /Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T08:41:58+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T08:41:58+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T08:41:58+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T09:07:27+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T09:07:27+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T09:07:27+08:00 ] 127.0.0.1 /Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T09:07:27+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T09:07:27+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T09:51:40+08:00 ] 127.0.0.1 /Admin/goods
+ERR: 非法操作:index
+
+[ 2017-12-16T09:51:47+08:00 ] 127.0.0.1 /Admin/goods/index
+ERR: 非法操作:index
+
+[ 2017-12-16T10:03:20+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`goods_body`) VALUES ('q3gef','','0','34','1','5435','&lt;p&gt;&lt;img src=&quot;/ueditor/php/upload/image/20171216/1513389799311550.jpg&quot; title=&quot;1513389799311550.jpg&quot; alt=&quot;155401384 - .jpg&quot;/&gt;&lt;/p&gt;')
+
+[ 2017-12-16T10:06:50+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`goods_body`) VALUES ('q3gef','','0','34','1','5435','&lt;p&gt;&lt;img src=&quot;/ueditor/php/upload/image/20171216/1513389799311550.jpg&quot; title=&quot;1513389799311550.jpg&quot; alt=&quot;155401384 - .jpg&quot;/&gt;&lt;/p&gt;')
+
+[ 2017-12-16T10:08:39+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`goods_body`) VALUES ('q3gef','','0','34','1','5435','&lt;p&gt;&lt;img src=&quot;/ueditor/php/upload/image/20171216/1513390116201862.jpg&quot; title=&quot;1513390116201862.jpg&quot; alt=&quot;162578847.jpg&quot;/&gt;&lt;/p&gt;')
+
+[ 2017-12-16T12:30:57+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`goods_body`) VALUES ('q3gef','','0','34','1','5435','&lt;p&gt;&lt;img src=&quot;/ueditor/php/upload/image/20171216/1513390116201862.jpg&quot; title=&quot;1513390116201862.jpg&quot; alt=&quot;162578847.jpg&quot;/&gt;&lt;/p&gt;')
+
+[ 2017-12-16T12:31:43+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`goods_body`) VALUES ('你猜','','0','5678','1','56789','&lt;p&gt;&lt;img src=&quot;/ueditor/php/upload/image/20171216/1513398701958791.jpg&quot; title=&quot;1513398701958791.jpg&quot; alt=&quot;157652139.jpg&quot;/&gt;&lt;/p&gt;')
+
+[ 2017-12-16T12:35:24+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`goods_body`) VALUES ('你猜','','0','5678','1','56789','&lt;p&gt;&lt;img src=&quot;/ueditor/php/upload/image/20171216/1513398923563845.jpg&quot; title=&quot;1513398923563845.jpg&quot; alt=&quot;155401384 - .jpg&quot;/&gt;&lt;/p&gt;')
+
+[ 2017-12-16T12:37:33+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`goods_body`) VALUES ('你猜','','0','5678','1','56789','&lt;p&gt;&lt;img src=&quot;/ueditor/php/upload/image/20171216/1513398923563845.jpg&quot; title=&quot;1513398923563845.jpg&quot; alt=&quot;155401384 - .jpg&quot;/&gt;&lt;/p&gt;')
+
+[ 2017-12-16T12:38:49+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`goods_body`) VALUES ('你猜','','0','5678','1','56789','&lt;p&gt;&lt;img src=&quot;/ueditor/php/upload/image/20171216/1513398923563845.jpg&quot; title=&quot;1513398923563845.jpg&quot; alt=&quot;155401384 - .jpg&quot;/&gt;&lt;/p&gt;')
+
+[ 2017-12-16T12:39:34+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`goods_body`) VALUES ('你猜','','0','5678','1','56789','&lt;p&gt;&lt;img src=&quot;/ueditor/php/upload/image/20171216/1513398923563845.jpg&quot; title=&quot;1513398923563845.jpg&quot; alt=&quot;155401384 - .jpg&quot;/&gt;&lt;/p&gt;')
+
+[ 2017-12-16T12:40:02+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`goods_body`) VALUES ('你猜','','0','5678','1','56789','&lt;p&gt;&lt;img src=&quot;/ueditor/php/upload/image/20171216/1513398923563845.jpg&quot; title=&quot;1513398923563845.jpg&quot; alt=&quot;155401384 - .jpg&quot;/&gt;&lt;/p&gt;')
+
+[ 2017-12-16T12:44:52+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`) VALUES ('你猜','','0','456','1','45')
+
+[ 2017-12-16T12:47:30+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`goods_body`) VALUES ('6','','4','3456','1','323','&lt;p&gt;&lt;img src=&quot;/ueditor/php/upload/image/20171216/1513399648999929.jpg&quot; title=&quot;1513399648999929.jpg&quot; alt=&quot;162578847.jpg&quot;/&gt;&lt;/p&gt;')
+
+[ 2017-12-16T12:51:10+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`goods_body`) VALUES ('ipad','','5','5678','1','56789','&lt;p&gt;&lt;img src=&quot;/ueditor/php/upload/image/20171216/1513399790632395.jpg&quot; title=&quot;1513399790632395.jpg&quot; alt=&quot;157652139.jpg&quot;/&gt;&lt;/p&gt;')
+
+[ 2017-12-16T12:56:50+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`) VALUES ('34','','0','3545','1','4355')
+
+[ 2017-12-16T12:59:40+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`goods_body`) VALUES ('q\'q','','0','111','1','111','')
+
+[ 2017-12-16T13:01:46+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`) VALUES ('56','','0','345','1','45')
+
+[ 2017-12-16T13:03:31+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`) VALUES ('56','','0','345','1','45')
+
+[ 2017-12-16T13:06:39+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`) VALUES ('56','','0','345','1','45')
+
+[ 2017-12-16T13:06:47+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1062:Duplicate entry '' for key 'goods_sn'
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`) VALUES ('56','','0','345','1','45')
+
+[ 2017-12-16T13:12:18+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1146:Table 'jxshop.jx_common' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jx_common`
+
+[ 2017-12-16T13:28:37+08:00 ] 127.0.0.1 /Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:28:37+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:28:37+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:28:37+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:30:23+08:00 ] 127.0.0.1 /Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:30:23+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:30:24+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:30:24+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:31:52+08:00 ] 127.0.0.1 /Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:31:52+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:31:52+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:31:52+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:40:10+08:00 ] 127.0.0.1 /Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:40:10+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:40:10+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:40:10+08:00 ] 127.0.0.1 /Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:40:10+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:40:10+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:43:34+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:43:34+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:43:34+08:00 ] 127.0.0.1 /Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:43:34+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:43:34+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:43:58+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:43:58+08:00 ] 127.0.0.1 /Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:43:58+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T13:43:58+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T14:51:41+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-12-16T14:52:19+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-12-16T14:55:31+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-12-16T14:55:43+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-12-16T14:56:07+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-12-16T14:56:19+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-12-16T18:05:04+08:00 ] 127.0.0.1 /Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T18:05:04+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T18:05:04+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T18:05:04+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-16T19:04:31+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-12-16T19:04:36+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-12-16T19:12:23+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-12-16T19:40:42+08:00 ] 127.0.0.1 /Admin/Goods/index
+ERR: Think\Model:listData方法不存在！
+
+[ 2017-12-16T20:21:17+08:00 ] 127.0.0.1 /Admin/Goods/dels/goods_id/1.html
+ERR: 非法操作:dels
+

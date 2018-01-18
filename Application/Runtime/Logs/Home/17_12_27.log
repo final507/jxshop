@@ -1,0 +1,133 @@
+[ 2017-12-27T18:19:36+08:00 ] 127.0.0.1 /Home/Cart/addCart.html
+ERR: Think\Model:getLatsql方法不存在！
+
+[ 2017-12-27T18:28:03+08:00 ] 127.0.0.1 /Home/Cart/
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-27T20:27:56+08:00 ] 127.0.0.1 /Home/Cart/index
+ERR: 模板不存在:../Application/Home/View/Cart/index.html
+
+[ 2017-12-27T20:29:52+08:00 ] 127.0.0.1 /Home/Order/check.html
+ERR: 无法加载控制器:Order
+
+[ 2017-12-27T22:54:41+08:00 ] 127.0.0.1 /Home/Order/check.html
+ERR: 无法加载控制器:Order
+
+[ 2017-12-27T22:55:20+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T22:55:21+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T22:55:22+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T22:55:23+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001445s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T22:55:26+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T22:55:26+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0006s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T22:55:26+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T22:55:27+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T22:58:20+08:00 ] 127.0.0.1 /Home/Cart/login.html
+ERR: 非法操作:login
+
+[ 2017-12-27T22:58:27+08:00 ] 127.0.0.1 /Home/Cart/login.html
+ERR: 非法操作:login
+
+[ 2017-12-27T23:58:05+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001046s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T23:58:08+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T23:58:16+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T23:58:17+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T23:58:18+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T23:58:18+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T23:58:18+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+ERR: 非法操作:updateCount
+
+[ 2017-12-27T23:58:18+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001115s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+ERR: 非法操作:updateCount
+

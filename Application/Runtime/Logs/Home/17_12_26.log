@@ -1,0 +1,23 @@
+[ 2017-12-26T17:41:52+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-26T22:47:16+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001521s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `jx_user` WHERE ( username='老铁' ) LIMIT 1   [ RunTime:0.0078s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\xunizhuji\think\Application\Home\Model\CartModel.class.php 第 90 行.
+
+[ 2017-12-26T22:47:30+08:00 ] 127.0.0.1 /Home/Cart/addCart.html
+ERR: 1054:Unknown column 'goods_id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( goods_id=55 ) LIMIT 1  
+
+[ 2017-12-26T22:50:10+08:00 ] 127.0.0.1 /Home/Cart/addCart.html
+ERR: 1054:Unknown column 'goods_id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( goods_id=55 ) LIMIT 1  
+
+[ 2017-12-26T22:50:45+08:00 ] 127.0.0.1 /Home/Cart/addCart.html
+ERR: 1054:Unknown column 'goods_id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( goods_id=55 ) LIMIT 1  
+

@@ -1,0 +1,12 @@
+[ 2017-12-28T18:18:02+08:00 ] 127.0.0.1 /Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2017-12-28T18:18:02+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-28T18:18:02+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-28T18:18:07+08:00 ] 127.0.0.1 /admin/rule/del.html
+ERR: 非法操作:del
+

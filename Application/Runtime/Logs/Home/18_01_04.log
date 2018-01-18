@@ -1,0 +1,6 @@
+[ 2018-01-04T13:37:18+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2018-01-04T18:01:53+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1049] Unknown database 'jxshop'
+

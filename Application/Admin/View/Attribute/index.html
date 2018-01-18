@@ -1,0 +1,54 @@
+<extend name="Public:base" />
+<block name="header" >
+    <span class="action-span"><a href="">添加新商品</a></span>
+    <span class="action-span1"><a href="">ECSHOP 管理中心</a></span>
+    <span id="search_id" class="action-span1"> - 商品列表 </span>
+    <div style="clear:both"></div>
+</block>
+
+<block name="body">
+
+
+<!-- 商品列表 -->
+
+<div class="list-div" id="listDiv">
+    <table cellpadding="3" cellspacing="1">
+        <tr>
+            <th>编号</th>
+            <th>属性名称</th>
+            <th>类型名称</th>
+            <th>属性类型</th>
+            <th>属性的录入方式</th>
+            <th>默认值</th>
+            <th>操作</th>
+        </tr>
+        <volist name="data.list" id="vo">
+        <tr>
+            <td align="center">{$vo.id}</td>
+            <td align="center"><span>{$vo.attr_name}</span></td>
+            <td align="center"><span>{$vo.type_id}</span></td>
+            <td align="center"><span><eq name="vo.attr_type" value="1">唯一属性<else />单选属性</eq></span></td>
+            <td align="center"><span><eq name="vo.attr_input_type" value="1">手工输入<else />列表选项</eq></span></td>
+            <td align="center"><span>{$vo.attr_value}</span></td>
+           
+            <td align="center">
+            <a href="{:U('edit','attr_id='.$vo['id'])}">编辑</a>
+            <a href="{:U('dels','attr_id='.$vo['id'])}" >删除</a>
+
+            </td>
+        </tr>
+        </volist>
+    </table>
+
+    <!-- 分页开始 -->
+    <table id="page-table" cellspacing="0">
+        <tr>
+            <td width="80%">&nbsp;</td>
+            <td align="center" nowrap="true">
+              {$data.pageStr}
+            </td>
+        </tr>
+    </table>
+<!-- 分页结束 -->
+</div>
+</block>

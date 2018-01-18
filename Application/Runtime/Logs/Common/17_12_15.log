@@ -1,0 +1,190 @@
+[ 2017-12-15T12:57:28+08:00 ] 127.0.0.1 /wwwroot/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Top
+
+[ 2017-12-15T12:57:28+08:00 ] 127.0.0.1 /wwwroot/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Menu
+
+[ 2017-12-15T12:57:28+08:00 ] 127.0.0.1 /wwwroot/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Main
+
+[ 2017-12-15T12:59:23+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-12-15T13:22:51+08:00 ] 127.0.0.1 /top.html
+ERR: 无法加载模块:Top
+
+[ 2017-12-15T13:22:51+08:00 ] 127.0.0.1 /main.html
+ERR: 无法加载模块:Main
+
+[ 2017-12-15T13:23:15+08:00 ] 127.0.0.1 /testTp
+ERR: 无法加载模块:TestTp
+
+[ 2017-12-15T20:17:55+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:22:34+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:23:16+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:23:25+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:42:27+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:45:40+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:48:23+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:49:24+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:49:24+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:49:24+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:49:25+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:49:25+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:49:25+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:49:25+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:49:25+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:49:33+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:50:13+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:50:48+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:50:50+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:50:51+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:50:51+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T20:50:51+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:03:29+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.config.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:03:30+08:00 ] 127.0.0.1 /Public/ueditor/lang/zh-cn/zh-cn.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:03:30+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.all.min.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:03:30+08:00 ] 127.0.0.1 /Public/ueditor/lang/zh-cn/zh-cn.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:24:39+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.all.min.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:24:39+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.config.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:24:39+08:00 ] 127.0.0.1 /Public/ueditor/lang/zh-cn/zh-cn.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:24:39+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.all.min.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:24:39+08:00 ] 127.0.0.1 /Public/ueditor/lang/zh-cn/zh-cn.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:25:09+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.config.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:25:09+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.all.min.js
+ERR: 无法加载模块:Public
+
+
+[ 2017-12-15T21:25:09+08:00 ] 127.0.0.1 /Public/ueditor/lang/zh-cn/zh-cn.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:43:15+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.all.min.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:43:15+08:00 ] 127.0.0.1 /Public/ueditor/lang/zh-cn/zh-cn.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:43:15+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.config.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:43:15+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.config.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:43:15+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.all.min.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:43:15+08:00 ] 127.0.0.1 /Public/ueditor/lang/zh-cn/zh-cn.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T21:52:21+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.config.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T22:18:37+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.config.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T22:18:37+08:00 ] 127.0.0.1 /Public/ueditor/lang/zh-cn/zh-cn.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T22:18:37+08:00 ] 127.0.0.1 /Public/ueditor/lang/zh-cn/zh-cn.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T22:19:12+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.config.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T22:19:12+08:00 ] 127.0.0.1 /Public/ueditor/lang/zh-cn/zh-cn.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T22:19:12+08:00 ] 127.0.0.1 /Public/ueditor/ueditor.all.min.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T22:19:12+08:00 ] 127.0.0.1 /Public/ueditor/lang/zh-cn/zh-cn.js
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T22:28:02+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T22:28:29+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T22:29:19+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-15T22:30:12+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+

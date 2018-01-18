@@ -1,0 +1,6 @@
+[ 2017-12-19T18:14:13+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2017-12-19T18:56:14+08:00 ] 127.0.0.1 /Public/Admin/Image/no.gif
+ERR: 无法加载模块:Public
+

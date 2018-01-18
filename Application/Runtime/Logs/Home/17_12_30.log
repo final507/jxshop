@@ -1,0 +1,128 @@
+[ 2017-12-30T14:30:03+08:00 ] 127.0.0.1 /Home/Cart/login.html
+ERR: 非法操作:login
+
+[ 2017-12-30T14:31:35+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001303s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `jx_user` WHERE ( username='老铁' ) LIMIT 1   [ RunTime:0.0068s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\xunizhuji\think\Application\Home\Model\CartModel.class.php 第 88 行.
+
+[ 2017-12-30T18:03:47+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='2' WHERE ( user_id = 5 and goods_id=71 and goods_attr_ids='' ) [ RunTime:0.0151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000557s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000590s ]
+
+[ 2017-12-30T18:04:33+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='3' WHERE ( user_id = 5 and goods_id=71 and goods_attr_ids='' ) [ RunTime:0.0039s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2017-12-30T18:45:39+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001949s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='2' WHERE ( user_id = 5 and goods_id=58 and goods_attr_ids='' ) [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000961s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2017-12-30T18:45:42+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='1' WHERE ( user_id = 5 and goods_id=58 and goods_attr_ids='' ) [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000684s ]
+
+[ 2017-12-30T18:50:55+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001221s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='2' WHERE ( user_id = 5 and goods_id=58 and goods_attr_ids='' ) [ RunTime:0.0065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2017-12-30T18:50:57+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='1' WHERE ( user_id = 5 and goods_id=58 and goods_attr_ids='' ) [ RunTime:0.0042s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000710s ]
+
+[ 2017-12-30T18:54:35+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='2' WHERE ( user_id = 5 and goods_id=58 and goods_attr_ids='' ) [ RunTime:0.0063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001837s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002209s ]
+
+[ 2017-12-30T18:54:37+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='1' WHERE ( user_id = 5 and goods_id=58 and goods_attr_ids='' ) [ RunTime:0.0036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2017-12-30T19:32:16+08:00 ] 127.0.0.1 /Home/Order/order.html
+ERR: 1048:Column 'goods_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `jx_order_goods` (`order_id`,`goods_id`,`goods_attr_ids`,`price`,`goods_count`) VALUES ('29',NULL,'','1111.00','2')
+
+[ 2017-12-30T19:33:04+08:00 ] 127.0.0.1 /Home/Order/order.html
+ERR: 1048:Column 'goods_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `jx_order_goods` (`order_id`,`goods_id`,`goods_attr_ids`,`price`,`goods_count`) VALUES ('30',NULL,'','1111.00','2')
+
+[ 2017-12-30T19:34:00+08:00 ] 127.0.0.1 /Home/Order/order.html
+ERR: 1048:Column 'goods_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `jx_order_goods` (`order_id`,`goods_id`,`goods_attr_ids`,`price`,`goods_count`) VALUES ('31',NULL,'','1111.00','2')
+
+[ 2017-12-30T19:35:21+08:00 ] 127.0.0.1 /Home/Order/order.html
+ERR: 1048:Column 'goods_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `jx_order_goods` (`order_id`,`goods_id`,`goods_attr_ids`,`price`,`goods_count`) VALUES ('32',NULL,'','1111.00','2')
+
+[ 2017-12-30T20:11:59+08:00 ] 127.0.0.1 /Home/Order/check.html
+ERR: Think\Controller:erroe方法不存在！
+
+[ 2017-12-30T20:12:14+08:00 ] 127.0.0.1 /Home/Order/check.html
+ERR: Think\Controller:erroe方法不存在！
+
+[ 2017-12-30T20:19:04+08:00 ] 127.0.0.1 /Home/Cart/
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( id= ) LIMIT 1  
+
+[ 2017-12-30T20:32:27+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `jx_user` WHERE ( username='老铁' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\xunizhuji\think\Application\Home\Model\CartModel.class.php 第 88 行.
+
+[ 2017-12-30T20:44:09+08:00 ] 127.0.0.1 /Home/Cr
+ERR: 无法加载控制器:Cr
+

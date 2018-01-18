@@ -1,0 +1,290 @@
+[ 2017-12-24T19:44:23+08:00 ] 127.0.0.1 /Home/Index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'end>1514115863 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( is_sale=1 and cx_price>0 and start<=1514115863and end>1514115863 ) 
+
+[ 2017-12-24T19:46:11+08:00 ] 127.0.0.1 /Home/Index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'end>1514115971 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( is_sale=1 and cx_price>0 and start<1514115971and end>1514115971 ) 
+
+[ 2017-12-24T19:46:12+08:00 ] 127.0.0.1 /Home/Index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'end>1514115972 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( is_sale=1 and cx_price>0 and start<1514115972and end>1514115972 ) 
+
+[ 2017-12-24T19:46:12+08:00 ] 127.0.0.1 /Home/Index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'end>1514115972 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( is_sale=1 and cx_price>0 and start<1514115972and end>1514115972 ) 
+
+[ 2017-12-24T19:46:12+08:00 ] 127.0.0.1 /Home/Index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'end>1514115972 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( is_sale=1 and cx_price>0 and start<1514115972and end>1514115972 ) 
+
+[ 2017-12-24T19:46:13+08:00 ] 127.0.0.1 /Home/Index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'end>1514115973 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( is_sale=1 and cx_price>0 and start<1514115973and end>1514115973 ) 
+
+[ 2017-12-24T19:47:02+08:00 ] 127.0.0.1 /Home/Index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'end>1514116022 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `jx_goods` WHERE ( is_sale=1 and cx_price>0 and start>1514116022and end>1514116022 ) 
+
+[ 2017-12-24T19:47:12+08:00 ] 127.0.0.1 /Home/Index/index.html
+ERR: Think\Model:getFloor方法不存在！
+
+[ 2017-12-24T19:48:36+08:00 ] 127.0.0.1 /Home/Index/index.html
+ERR: Think\Model:getFloor方法不存在！
+
+[ 2017-12-24T20:13:27+08:00 ] 127.0.0.1 /Home/Category/index/id/7.html
+ERR: 无法加载控制器:Category
+
+[ 2017-12-24T20:31:28+08:00 ] 127.0.0.1 /Home/Index/index.html
+ERR: 1054:Unknown column 'is_sale' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_category` WHERE ( is_sale=1 and cate_id in (3,7,8,9,1,5,1,1,1,7) ) LIMIT 8  
+
+[ 2017-12-24T20:46:42+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T20:46:43+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T20:46:44+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T20:46:44+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T20:46:44+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T20:46:45+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T20:46:45+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T20:46:45+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001533s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T20:46:45+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T20:46:45+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T20:56:40+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `jx_user` WHERE ( username = '' ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: INSERT INTO `jx_user` (`username`,`password`,`salt`) VALUES ('','19753c85abaff662f4dadb0b4d315c43','773626') [ RunTime:0.0039s ]
+
+[ 2017-12-24T20:57:13+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001485s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `jx_user` WHERE ( username='小倩' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-12-24T20:58:55+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T20:59:13+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `jx_user` WHERE ( username='' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `jx_cart` [ RunTime:0.0213s ]
+ERR: Think\Model:cookie2db方法不存在！
+
+[ 2017-12-24T20:59:15+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T20:59:15+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001478s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:00:44+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:03:01+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `jx_user` WHERE ( username = '' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: INSERT INTO `jx_user` (`username`,`password`,`salt`) VALUES ('','8ffa9b29cffe91099ddeb4e2093df9bf','559338') [ RunTime:0.0036s ]
+
+[ 2017-12-24T21:04:47+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:04:47+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001321s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:04:48+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001442s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:04:48+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001371s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:04:48+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:04:48+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:04:48+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+
+[ 2017-12-24T21:04:49+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000919s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:04:49+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001309s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:04:49+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+
+[ 2017-12-24T21:15:56+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000972s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:16:00+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001240s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+
+[ 2017-12-24T21:16:49+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:16:52+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001522s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+
+[ 2017-12-24T21:17:16+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+
+[ 2017-12-24T21:19:20+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:19:20+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:19:21+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:19:21+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:19:21+08:00 ] 127.0.0.1 /Home/User/regist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000905s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-24T21:25:49+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `jx_user` WHERE ( username='小倩' ) LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-12-24T21:25:55+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+

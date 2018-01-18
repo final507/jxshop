@@ -1,0 +1,217 @@
+[ 2017-12-24T18:36:22+08:00 ] 127.0.0.1 /Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2017-12-24T18:36:22+08:00 ] 127.0.0.1 /Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2017-12-24T18:36:22+08:00 ] 127.0.0.1 /Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2017-12-24T18:54:41+08:00 ] 127.0.0.1 /Admin/Goods/showAttr.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+SQL: SHOW COLUMNS FROM `jx_admin_role` [ RunTime:0.0194s ]
+SQL: SELECT * FROM `jx_admin_role` WHERE ( admin_id=6 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `jx_rule`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+SQL: SELECT * FROM `jx_attribute` WHERE ( type_id=2 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033646s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033690s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000623s ]
+
+[ 2017-12-24T18:54:43+08:00 ] 127.0.0.1 /Admin/Goods/showAttr.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+SQL: SHOW COLUMNS FROM `jx_admin_role` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `jx_admin_role` WHERE ( admin_id=6 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `jx_rule`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+SQL: SELECT * FROM `jx_attribute` WHERE ( type_id=3 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007841s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007886s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000643s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000678s ]
+
+[ 2017-12-24T18:55:00+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1366:Incorrect integer value: '' for column 'start' at row 1
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cx_price`,`start`,`end`,`cate_id`,`shop_price`,`is_sale`,`is_hot`,`is_new`,`is_rec`,`market_price`,`addtime`) VALUES ('坚果PRO','JX5a3f8784c81f4','998','','','10','11156','1','1','1','1','78567356','1514112900')
+
+[ 2017-12-24T18:55:19+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1366:Incorrect integer value: '' for column 'start' at row 1
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cx_price`,`start`,`end`,`cate_id`,`shop_price`,`is_sale`,`is_hot`,`is_new`,`is_rec`,`market_price`,`addtime`) VALUES ('坚果PRO','JX5a3f87976ed06','998','','','10','11156','1','1','1','1','78567356','1514112919')
+
+[ 2017-12-24T18:57:33+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1366:Incorrect integer value: '' for column 'start' at row 1
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cx_price`,`start`,`end`,`cate_id`,`shop_price`,`is_sale`,`is_hot`,`is_new`,`is_rec`,`market_price`,`addtime`) VALUES ('坚果PRO','JX5a3f881d01a18','998','','','10','11156','1','1','1','1','78567356','1514113053')
+
+[ 2017-12-24T19:03:17+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1366:Incorrect integer value: '' for column 'start' at row 1
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cx_price`,`start`,`end`,`cate_id`,`shop_price`,`is_sale`,`is_hot`,`is_new`,`is_rec`,`market_price`,`addtime`) VALUES ('坚果PRO','JX5a3f89758f9eb','998','','','10','11156','1','1','1','1','78567356','1514113397')
+
+[ 2017-12-24T19:04:33+08:00 ] 127.0.0.1 /Admin/Goods/showAttr.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+SQL: SHOW COLUMNS FROM `jx_admin_role` [ RunTime:0.0193s ]
+SQL: SELECT * FROM `jx_admin_role` WHERE ( admin_id=6 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `jx_rule`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+SQL: SELECT * FROM `jx_attribute` WHERE ( type_id=2 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030089s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000532s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000558s ]
+
+[ 2017-12-24T19:04:36+08:00 ] 127.0.0.1 /Admin/Goods/showAttr.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+SQL: SHOW COLUMNS FROM `jx_admin_role` [ RunTime:0.0213s ]
+SQL: SELECT * FROM `jx_admin_role` WHERE ( admin_id=6 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `jx_rule`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Undefined index: model_name E:\xunizhuji\think\Application\Admin\Controller\CommonController.class.php 第 48 行.
+SQL: SELECT * FROM `jx_attribute` WHERE ( type_id=3 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009026s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009071s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2017-12-24T19:04:57+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1366:Incorrect integer value: '' for column 'start' at row 1
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cx_price`,`start`,`end`,`cate_id`,`shop_price`,`is_sale`,`is_hot`,`is_new`,`is_rec`,`market_price`,`addtime`) VALUES ('坚果PRO','JX5a3f89d9d1a35','998','','','10','11156','1','1','1','1','78567356','1514113497')
+
+[ 2017-12-24T19:06:48+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1366:Incorrect integer value: '' for column 'start' at row 1
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cx_price`,`start`,`end`,`cate_id`,`shop_price`,`is_sale`,`is_hot`,`is_new`,`is_rec`,`market_price`,`addtime`) VALUES ('坚果PRO','JX5a3f8a488412a','998','','','10','11156','1','1','1','1','78567356','1514113608')
+
+[ 2017-12-24T19:10:37+08:00 ] 127.0.0.1 /Admin/Goods/add
+ERR: 1366:Incorrect integer value: '' for column 'start' at row 1
+ [ SQL语句 ] : INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cx_price`,`start`,`end`,`cate_id`,`shop_price`,`is_sale`,`is_hot`,`is_new`,`is_rec`,`market_price`,`addtime`) VALUES ('坚果PRO','JX5a3f8b2d86400','998','','','10','11156','1','1','1','1','78567356','1514113837')
+

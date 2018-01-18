@@ -1,0 +1,106 @@
+[ 2017-12-19T17:49:14+08:00 ] 127.0.0.1 /Admin/Admin/Rule
+ERR: 非法操作:Rule
+
+[ 2017-12-19T17:49:32+08:00 ] 127.0.0.1 /Admin/Roule/add
+ERR: 无法加载控制器:Roule
+
+[ 2017-12-19T18:11:17+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:11:41+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:11:42+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:11:42+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:11:42+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:11:42+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:11:43+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:12:17+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:12:17+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:12:17+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:12:17+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:12:18+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:12:18+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:12:51+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:12:52+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:12:52+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:12:52+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:12:57+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:13:36+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:13:36+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:13:37+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:14:13+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-19T18:14:35+08:00 ] 127.0.0.1 /Admin/Login/verify.html
+ERR: 非法操作:verify
+
+[ 2017-12-19T18:34:47+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: Think\Model:login方法不存在！
+
+[ 2017-12-19T18:50:50+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 1054:Unknown column '3vwgertf' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_admin` WHERE ( username=3vwgertf ) LIMIT 1  
+
+[ 2017-12-19T18:54:53+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 1054:Unknown column '3vwgertf' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_admin` WHERE ( username=3vwgertf ) LIMIT 1  
+
+[ 2017-12-19T18:55:14+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 1054:Unknown column '3vwgertf' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_admin` WHERE ( username=3vwgertf ) LIMIT 1  
+
+[ 2017-12-19T18:59:08+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 1054:Unknown column '王亮啊' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_admin` WHERE ( username=王亮啊 ) LIMIT 1  
+
+[ 2017-12-19T19:08:13+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 1054:Unknown column '老铁' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_admin` WHERE ( username=老铁 ) LIMIT 1  
+
+[ 2017-12-19T19:08:38+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 1054:Unknown column '老铁' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_admin` WHERE ( username=老铁 ) LIMIT 1  
+
+[ 2017-12-19T19:09:01+08:00 ] 127.0.0.1 /Admin/Login/login
+ERR: 1054:Unknown column '老铁' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `jx_admin` WHERE ( username=老铁 ) LIMIT 1  
+

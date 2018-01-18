@@ -1,0 +1,27 @@
+[ 2017-12-22T18:06:03+08:00 ] 127.0.0.1 /Home/Index/__PUBLIC_HOME__/style/base.css
+ERR: 非法操作:__PUBLIC_HOME__
+
+[ 2017-12-22T18:06:03+08:00 ] 127.0.0.1 /Home/Index/__PUBLIC_HOME__/style/global.css
+ERR: 非法操作:__PUBLIC_HOME__
+
+[ 2017-12-22T18:06:03+08:00 ] 127.0.0.1 /Home/Index/__PUBLIC_HOME__/style/index.css
+ERR: 非法操作:__PUBLIC_HOME__
+
+[ 2017-12-22T18:06:03+08:00 ] 127.0.0.1 /Home/Index/__PUBLIC_HOME__/style/header.css
+ERR: 非法操作:__PUBLIC_HOME__
+
+[ 2017-12-22T18:06:03+08:00 ] 127.0.0.1 /Home/Index/__PUBLIC_HOME__/style/bottomnav.css
+ERR: 非法操作:__PUBLIC_HOME__
+
+[ 2017-12-22T18:06:03+08:00 ] 127.0.0.1 /Home/Index/__PUBLIC_HOME__/style/footer.css
+ERR: 非法操作:__PUBLIC_HOME__
+
+[ 2017-12-22T18:06:03+08:00 ] 127.0.0.1 /Home/Index/__PUBLIC_HOME__/js/jquery-1.8.3.min.js
+ERR: 非法操作:__PUBLIC_HOME__
+
+[ 2017-12-22T18:06:03+08:00 ] 127.0.0.1 /Home/Index/__PUBLIC_HOME__/js/header.js
+ERR: 非法操作:__PUBLIC_HOME__
+
+[ 2017-12-22T18:06:03+08:00 ] 127.0.0.1 /Home/Index/__PUBLIC_HOME__/js/index.js
+ERR: 非法操作:__PUBLIC_HOME__
+

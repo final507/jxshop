@@ -1,0 +1,47 @@
+<extend name="Public:base" />
+<block name="header" >
+    <span class="action-span"><a href="">添加新商品</a></span>
+    <span class="action-span1"><a href="">ECSHOP 管理中心</a></span>
+    <span id="search_id" class="action-span1"> - 商品列表 </span>
+    <div style="clear:both"></div>
+</block>
+
+<block name="body">
+
+
+<!-- 商品列表 -->
+
+<div class="list-div" id="listDiv">
+    <table cellpadding="3" cellspacing="1">
+        <tr>
+            <th>编号</th>
+            <th>用户名称</th>
+            <th>角色名称</th>
+            <th>操作</th>
+        </tr>
+        <volist name="data" id="vo">
+        <tr>
+            <td align="center">{$vo.id}</td>
+            <td align="center"><span>{$vo.username}</span></td>
+            <td align="center"><span>{$vo.role_name}</span></td>
+            <gt name="vo.id" value="1">
+            <td align="center">
+            <a href="{:U('edit','admin_id='.$vo['id'])}">编辑</a>
+            <a href="{:U('dels','admin_id='.$vo['id'])}" >删除</a>
+            </gt>
+            </td>
+        </tr>
+        </volist>
+    </table>
+
+    <!-- 分页开始 -->
+    <table id="page-table" cellspacing="0">
+        <tr>
+            <td width="80%">&nbsp;</td>
+            <td align="center" nowrap="true">
+            </td>
+        </tr>
+    </table>
+<!-- 分页结束 -->
+</div>
+</block>

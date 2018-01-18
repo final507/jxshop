@@ -1,0 +1,615 @@
+[ 2017-12-29T09:29:30+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000887s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `jx_user` WHERE ( username='老铁' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\xunizhuji\think\Application\Home\Model\CartModel.class.php 第 88 行.
+
+[ 2017-12-29T09:31:01+08:00 ] 127.0.0.1 /Home/Order/check.html
+ERR: Think\Controller:erroe方法不存在！
+
+[ 2017-12-29T09:31:13+08:00 ] 127.0.0.1 /Home/Cart/login.html
+ERR: 非法操作:login
+
+[ 2017-12-29T09:31:52+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `jx_user` WHERE ( username='老铁' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\xunizhuji\think\Application\Home\Model\CartModel.class.php 第 88 行.
+
+[ 2017-12-29T09:45:12+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='2' WHERE ( user_id = 5 and goods_id=57 and goods_attr_ids='' ) [ RunTime:0.0055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-12-29T09:45:22+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='1' WHERE ( user_id = 5 and goods_id=57 and goods_attr_ids='' ) [ RunTime:0.0043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000719s ]
+
+[ 2017-12-29T09:55:16+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0004s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='2' WHERE ( user_id = 5 and goods_id=71 and goods_attr_ids='' ) [ RunTime:0.0053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000863s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001027s ]
+
+[ 2017-12-29T10:24:22+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='2' WHERE ( user_id = 5 and goods_id=57 and goods_attr_ids='' ) [ RunTime:0.0079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000709s ]
+
+[ 2017-12-29T10:24:30+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='3' WHERE ( user_id = 5 and goods_id=57 and goods_attr_ids='' ) [ RunTime:0.0041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000674s ]
+
+[ 2017-12-29T10:24:31+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001561s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='4' WHERE ( user_id = 5 and goods_id=57 and goods_attr_ids='' ) [ RunTime:0.0041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2017-12-29T10:24:32+08:00 ] 127.0.0.1 /Home/Cart/updateCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+SQL: UPDATE `jx_cart` SET `goods_count`='5' WHERE ( user_id = 5 and goods_id=57 and goods_attr_ids='' ) [ RunTime:0.0042s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2017-12-29T14:44:53+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/57.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T14:49:01+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/57.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T14:49:04+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/57.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T14:52:08+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/57.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T14:52:09+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/57.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T14:52:21+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/57.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:05:52+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/57.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:06:42+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/57.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:06:45+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/57.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:06:46+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/57.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:06:47+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/57.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:07:36+08:00 ] 127.0.0.1 /Home/Login/login.html
+ERR: 无法加载控制器:Login
+
+[ 2017-12-29T15:07:54+08:00 ] 127.0.0.1 /Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `jx_user` WHERE ( username='老铁' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\xunizhuji\think\Application\Home\Model\CartModel.class.php 第 88 行.
+
+[ 2017-12-29T15:07:57+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/54.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:08:01+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:11:09+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:11:09+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:11:13+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/57.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:11:18+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/55.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:12:42+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:13:41+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:13:41+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:13:42+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:13:42+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:13:56+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:13:57+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:13:57+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:17:17+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:17:18+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:17:18+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:17:18+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:21:12+08:00 ] 127.0.0.1 /Home/Goods/index/goods_id/71.html
+ERR: Think\Model:getList方法不存在！
+
+[ 2017-12-29T15:25:39+08:00 ] 127.0.0.1 /Home/Goods/comment.html
+ERR: 1364:Field 'user_id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `jx_comment` (`star`,`goods_id`,`content`) VALUES ('5','71','')
+
+[ 2017-12-29T15:27:44+08:00 ] 127.0.0.1 /Home/Goods/comment.html
+ERR: 1364:Field 'user_id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `jx_comment` (`star`,`goods_id`,`content`) VALUES ('5','71','')
+
+[ 2017-12-29T15:43:56+08:00 ] 127.0.0.1 /Home/Goods/comment.html
+ERR: 1364:Field 'user_id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `jx_comment` (`star`,`goods_id`,`content`) VALUES ('5','71','')
+
+[ 2017-12-29T15:58:20+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001253s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 31 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-12-29T16:09:45+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 31 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-12-29T16:09:45+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000992s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 31 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-12-29T16:09:45+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 31 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-12-29T16:09:45+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 31 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-12-29T16:09:46+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001328s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 31 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-12-29T16:09:46+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 31 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-12-29T16:09:46+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 31 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-12-29T16:17:21+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000961s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 40 行.
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 40 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-12-29T16:17:23+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 40 行.
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 40 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-12-29T16:19:49+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 40 行.
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 40 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-12-29T16:19:56+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0004s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 40 行.
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 40 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-12-29T16:24:57+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+
+[ 2017-12-29T16:25:44+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001447s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: goods_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: goods_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:25:47+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001136s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: goods_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: goods_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:25:50+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: goods_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: goods_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:25:51+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: goods_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: goods_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:26:01+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: goods_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: goods_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:26:09+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: goods_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: goods_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:26:12+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: goods_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: goods_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:27:49+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001404s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:28:02+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:28:08+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:28:10+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:28:23+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:33:41+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001125s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+
+[ 2017-12-29T16:39:50+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:43:09+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:43:13+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001138s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 72 行.
+NOTIC: [8] Undefined index: good_numebr E:\xunizhuji\think\Application\Home\Controller\GoodsController.class.php 第 73 行.
+
+[ 2017-12-29T16:44:30+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004252s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `jx_comment` SET `good_number`='1' WHERE ( id=8 ) [ RunTime:0.0010s ]
+
+[ 2017-12-29T16:44:31+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002791s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `jx_comment` SET `good_number`='2' WHERE ( id=8 ) [ RunTime:0.0004s ]
+
+[ 2017-12-29T16:44:31+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0013s ]
+SQL: UPDATE `jx_comment` SET `good_number`='3' WHERE ( id=8 ) [ RunTime:0.0004s ]
+
+[ 2017-12-29T16:44:31+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001263s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `jx_comment` SET `good_number`='4' WHERE ( id=8 ) [ RunTime:0.0003s ]
+
+[ 2017-12-29T16:44:31+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001210s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `jx_comment` SET `good_number`='5' WHERE ( id=8 ) [ RunTime:0.0004s ]
+
+[ 2017-12-29T16:44:31+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001695s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0037s ]
+SQL: UPDATE `jx_comment` SET `good_number`='6' WHERE ( id=8 ) [ RunTime:0.0004s ]
+
+[ 2017-12-29T16:44:31+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002156s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `jx_comment` SET `good_number`='7' WHERE ( id=8 ) [ RunTime:0.0005s ]
+
+[ 2017-12-29T16:44:32+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `jx_comment` SET `good_number`='8' WHERE ( id=8 ) [ RunTime:0.0006s ]
+
+[ 2017-12-29T16:44:32+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001557s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `jx_comment` SET `good_number`='9' WHERE ( id=8 ) [ RunTime:0.0003s ]
+
+[ 2017-12-29T16:44:32+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003269s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `jx_comment` SET `good_number`='10' WHERE ( id=8 ) [ RunTime:0.0003s ]
+
+[ 2017-12-29T16:44:32+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001642s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `jx_comment` SET `good_number`='11' WHERE ( id=8 ) [ RunTime:0.0004s ]
+
+[ 2017-12-29T16:44:32+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001184s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `jx_comment` SET `good_number`='12' WHERE ( id=8 ) [ RunTime:0.0002s ]
+
+[ 2017-12-29T16:44:33+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001612s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 39 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=8 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `jx_comment` SET `good_number`='13' WHERE ( id=8 ) [ RunTime:0.0003s ]
+
+[ 2017-12-29T21:35:34+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 40 行.
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 40 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0093s ]
+SQL: UPDATE `jx_comment` SET `good_number`='1' WHERE ( id=9 ) [ RunTime:0.0005s ]
+
+[ 2017-12-29T21:35:35+08:00 ] 127.0.0.1 /Home/Goods/good.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001259s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 40 行.
+NOTIC: [2048] Declaration of Home\Model\CommentModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) E:\xunizhuji\think\Application\Home\Model\CommentModel.class.php 第 40 行.
+SQL: SELECT * FROM `jx_comment` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `jx_comment` SET `good_number`='2' WHERE ( id=9 ) [ RunTime:0.0002s ]
+
+[ 2017-12-29T22:59:12+08:00 ] 127.0.0.1 /Home/Category/index/id/7.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3,7,8,9,12,5,10,13,11,7 ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `jx_goods` WHERE ( is_sale=1 and cate_id in 3,7,8,9,12,5,10,13,11,7 ) LIMIT 1  
+
+[ 2017-12-29T22:59:32+08:00 ] 127.0.0.1 /Home/Category/index/id/7.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3,7,8,9,12,5,10,13,11,7 ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `jx_goods` WHERE ( is_sale=1 and cate_id in 3,7,8,9,12,5,10,13,11,7 ) LIMIT 1  
+

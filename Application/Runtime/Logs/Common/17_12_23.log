@@ -1,0 +1,15 @@
+[ 2017-12-23T08:45:36+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2017-12-23T16:58:26+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2017-12-23T22:21:28+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2017-12-23T23:35:42+08:00 ] 127.0.0.1 /Public/Home/images/zoomloader.gif
+ERR: 无法加载模块:Public
+
+[ 2017-12-23T23:38:21+08:00 ] 127.0.0.1 /Public/Home/images/zoomloader.gif
+ERR: 无法加载模块:Public
+
